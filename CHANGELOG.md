@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.6.0](https://github.com/ZachDreamZ/pi-ultra-compact/compare/v0.5.0...v0.6.0) (2026-06-17)
+
+
+### Features
+
+* v0.6.0 - Algorithm enhancement release ([8cc0b6b](https://github.com/ZachDreamZ/pi-ultra-compact/commit/8cc0b6b5fa0f043430603bd286bccab4d8f5ee54))
+* v0.7.0 - Compact templates, LLM summarization, content-aware token estimation ([6e0d59f](https://github.com/ZachDreamZ/pi-ultra-compact/commit/6e0d59f63de102aa4fd09b01f7a97564aea5480f))
+* v0.8.0 - Graduated eviction, generational compaction, preemptive trigger, cache-aware, circuit breaker ([6a43119](https://github.com/ZachDreamZ/pi-ultra-compact/commit/6a43119c33cb562018b2452e33ccf71c91dc05cd))
+
 ## [0.8.0] - 2026-06-17
 
 ### Added
